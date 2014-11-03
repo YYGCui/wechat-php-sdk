@@ -7,12 +7,12 @@
 	"license": "GNU LGPL",
 	"authors": [
 		{
-			"name": "dodgepudding",
+			"name": "dodgepudding"
 		}
 		
 	],
 	"autoload": {
         "psr-4": {
 			"Wechat\\WechatFull\\": "" }
-    },
+    }
 }
